@@ -20,7 +20,7 @@ metadata:
 spec:
   containers:
     - name: pod1-container
-      image: wilbersx01/pod1b:latest
+      image: josegomez1171496sx01/pod1b:latest
       resources:
         limits:
           cpu: "0.5"
@@ -42,7 +42,7 @@ spec:
     spec:
       containers:
         - name: pod1-container
-          image: wilbersx01/pod1b:latest
+          image: josegomez1171496sx01/pod1b:latest
           resources:
             limits:
               cpu: "0.5"
