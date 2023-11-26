@@ -44,7 +44,7 @@ spec:
     spec:
       containers:
         - name: pod2-container
-          image: wilbersx01/pod2b:latest
+          image: josegomez1171496/pod2b:latest
           resources:
             limits:
               cpu: "0.5"
